@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.countapplication.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:checked="false"
+        android:enabled="true"
+        android:orderInCategory="100"
+        android:title="Change Count Increments"
+        app:showAsAction="never" />
+</menu>
